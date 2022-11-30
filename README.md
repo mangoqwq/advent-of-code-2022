@@ -1,0 +1,41 @@
+# Advent of Code 2022
+
+It's that time of the year again!
+
+I'll try my best to make solutions neat and readable, but no guarantees! 
+I'm going for the leaderboard this year, so speed takes first priority ;-;
+
+Perhaps we can get top hundred??? muri muri ＞︿＜
+
+## Progress
+
+
+| Day | Name | Part 1 | Part 2 | Points |
+| --- | :--- | :----- | :----- | :----- |
+| 1   |      |        |        |        |
+| 2   |      |        |        |        |
+| 3   |      |        |        |        |
+| 4   |      |        |        |        |
+| 5   |      |        |        |        |
+| 6   |      |        |        |        |
+| 7   |      |        |        |        |
+| 8   |      |        |        |        |
+| 9   |      |        |        |        |
+| 10  |      |        |        |        |
+| 11  |      |        |        |        |
+| 12  |      |        |        |        |
+| 13  |      |        |        |        |
+| 14  |      |        |        |        |
+| 15  |      |        |        |        |
+| 16  |      |        |        |        |
+| 17  |      |        |        |        |
+| 18  |      |        |        |        |
+| 19  |      |        |        |        |
+| 20  |      |        |        |        |
+| 21  |      |        |        |        |
+| 22  |      |        |        |        |
+| 23  |      |        |        |        |
+| 24  |      |        |        |        |
+| 25  |      |        |        |        |
+
+## Notes/Solution sketches
