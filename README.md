@@ -3,7 +3,7 @@
 It's that time of the year again!
 
 I'll try my best to make solutions neat and readable, but no guarantees! 
-I'm going for the leaderboard this year, so speed takes first priority ;-;
+I'm going for the leaderboard this year, so I will code up whatever comes to mind first ;-;
 
 Perhaps we can get top hundred??? muri muri ＞︿＜
 
