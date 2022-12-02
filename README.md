@@ -13,7 +13,7 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | Day | Name                | Part 1             | Part 2           | Points       | Global Rank |
 | --- | :------------------ | :----------------- | :--------------- | :----------- | :---------- |
 | 1   | Calorie Counting    | 00:01:08 / 67th    | 00:01:41 / 47th  | 34 + 54 = 88 | 48          |
-| 2   | Rock Paper Scissors | 00:03:56   / 125th | 00:06:17 / 101st | 0 + 0 = 0    | 87          |
+| 2   | Rock Paper Scissors | 00:03:56 / 125th   | 00:06:17 / 101st | 0 + 0 = 0    | 87          |
 | 3   |                     |                    |                  |              |             |
 | 4   |                     |                    |                  |              |             |
 | 5   |                     |                    |                  |              |             |
