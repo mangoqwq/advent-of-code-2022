@@ -15,7 +15,7 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 1   | Calorie Counting        | 00:01:08 / 67th  | 00:01:41 / 47th  | 34 + 54 = 88 | 48          |
 | 2   | Rock Paper Scissors     | 00:03:56 / 125th | 00:06:17 / 101st | 0 + 0 = 0    | 87          |
 | 3   | Rucksack Reorganization | 00:02:28 / 44th  | 00:06:07 / 159th | 57 + 0 = 57  | 74          |
-| 4   |                         |                  |                  |              |             |
+| 4   | Camp Cleaup             | 00:02:30 / 172nd | 00:03:48 / 178th | 0 + 0 = 0    | 96          |
 | 5   |                         |                  |                  |              |             |
 | 6   |                         |                  |                  |              |             |
 | 7   |                         |                  |                  |              |             |
