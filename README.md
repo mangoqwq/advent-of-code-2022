@@ -16,7 +16,7 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 2   | Rock Paper Scissors     | 00:03:56 / 125th | 00:06:17 / 101st | 0 + 0 = 0    | 87          |
 | 3   | Rucksack Reorganization | 00:02:28 / 44th  | 00:06:07 / 159th | 57 + 0 = 57  | 74          |
 | 4   | Camp Cleaup             | 00:02:30 / 172nd | 00:03:48 / 178th | 0 + 0 = 0    | 96          |
-| 5   |                         |                  |                  |              |             |
+| 5   | Supply Stacks           | 00:07:53 / 210th | 00:08:06 / 107th | 0 + 0 = 0    | < 100       |
 | 6   |                         |                  |                  |              |             |
 | 7   |                         |                  |                  |              |             |
 | 8   |                         |                  |                  |              |             |
