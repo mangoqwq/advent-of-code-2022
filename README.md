@@ -16,10 +16,10 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 2   | Rock Paper Scissors     | 00:03:56 / 125th  | 00:06:17 / 101st  | 0 + 0 = 0    | 87th        |
 | 3   | Rucksack Reorganization | 00:02:28 / 44th   | 00:06:07 / 159th  | 57 + 0 = 57  | 74th        |
 | 4   | Camp Cleaup             | 00:02:30 / 172nd  | 00:03:48 / 178th  | 0 + 0 = 0    | 96th        |
-| 5   | Supply Stacks           | 00:07:53 / 210th  | 00:08:06 / 107th  | 0 + 0 = 0    | < 100th     |
-| 6   | Tuning Trouble          | 00:04:30 / 1608th | 00:05:44 / 1609th | 0 + 0 = 0    | < 100th     |
+| 5   | Supply Stacks           | 00:07:53 / 210th  | 00:08:06 / 107th  | 0 + 0 = 0    | <100th      |
+| 6   | Tuning Trouble          | 00:04:30 / 1608th | 00:05:44 / 1609th | 0 + 0 = 0    | <100th      |
 | 7   | No Space Left On Device | 00:09:40 / 69th   | 00:12:33 / 43rd   | 32 + 58 = 90 | 82nd        |
-| 8   |                         |                   |                   |              |             |
+| 8   | Treetop Tree House      | 00:04:53 / 130th  | 00:07:42 / 31st   | 0 + 70 = 70  | 73rd        |
 | 9   |                         |                   |                   |              |             |
 | 10  |                         |                   |                   |              |             |
 | 11  |                         |                   |                   |              |             |
