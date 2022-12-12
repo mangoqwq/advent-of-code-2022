@@ -23,7 +23,7 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 9   | Rope Bridge             | 00:05:58 / 38th   | 00:08:21 / 10th   | 63 + 91 = 154 | 50th        |
 | 10  | Cathode-Ray Tube        | 00:04:59 / 77th   | 00:11:19 / 73rd   | 24 + 28 = 52  | 48th        |
 | 11  | Monkey In The Middle    | 00:20:28 / 569th  | 00:22:45 / 232nd  | 0 + 0 = 0     | 50th        |
-| 12  |                         |                   |                   |               |             |
+| 12  | Hill Climbing Algorithm | 00:05:26 / 31st   | 00:06:37 / 25th   | 70 + 76 = 146 | 44th        |
 | 13  |                         |                   |                   |               |             |
 | 14  |                         |                   |                   |               |             |
 | 15  |                         |                   |                   |               |             |
