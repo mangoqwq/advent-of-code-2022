@@ -26,7 +26,7 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 12  | Hill Climbing Algorithm | 00:05:26 / 31st   | 00:06:37 / 25th   | 70 + 76 = 146 | 44th        |
 | 13  | Distress Signal         | 00:25:04 / 1477th | 00:27:25 / 971th  | 0 + 0 = 0     | 51st        |
 | 14  | Regolith Reservoir      | 00:09:46 / 64th   | 00:19:03 / 279th  | 37 + 0 = 0    | 55th        |
-| 15  |                         |                   |                   |               |             |
+| 15  | Beacon Exclusion Zone   | 00:13:25 / 214th  | 00:18:14 / 18th   | 0 + 83 = 0    | 51th        |
 | 16  |                         |                   |                   |               |             |
 | 17  |                         |                   |                   |               |             |
 | 18  |                         |                   |                   |               |             |
