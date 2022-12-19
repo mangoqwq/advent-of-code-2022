@@ -30,7 +30,7 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 16  | Proboscidea Volcanium   | 00:20:31 / 63rd   | 19:29:34 / 8185th | 38 + 0 = 0    | 50th        |
 | 17  | Pyroclastic Flow        | 00:20:08 / 53rd   | 00:36:53 / 65th   | 48 + 36 = 84  | 46th        |
 | 18  | Boiling Boulders        | 00:10:35 / 1384th | 00:17:40 / 318th  | 0 + 0 = 0     | 50th        |
-| 19  |                         |                   |                   |               |             |
+| 19  | Not Enough Minerals     | 14:33:57 / 6593rd | 15:26:53 / 5777th | 0 + 0 = 0     | 52nd        |
 | 20  |                         |                   |                   |               |             |
 | 21  |                         |                   |                   |               |             |
 | 22  |                         |                   |                   |               |             |
