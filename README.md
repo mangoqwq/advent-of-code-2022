@@ -32,7 +32,7 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 18  | Boiling Boulders         | 00:10:35 / 1384th | 00:17:40 / 318th  | 0 + 0 = 0     | 50th        |
 | 19  | Not Enough Minerals      | 14:33:57 / 6593rd | 15:26:53 / 5777th | 0 + 0 = 0     | 52nd        |
 | 20  | Grove Positioning System | 00:43:57 / 1104th | 00:45:31 / 757th  | 0 + 0 = 0     | 59th        |
-| 21  |                          |                   |                   |               |             |
+| 21  | Monkey Math              | 00:06:09 / 261st  | 00:20:07 / 175th  | 0 + 0 = 0     | 59th        |
 | 22  |                          |                   |                   |               |             |
 | 23  |                          |                   |                   |               |             |
 | 24  |                          |                   |                   |               |             |
