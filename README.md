@@ -33,7 +33,7 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 19  | Not Enough Minerals      | 14:33:57 / 6593rd | 15:26:53 / 5777th | 0 + 0 = 0     | 52nd        |
 | 20  | Grove Positioning System | 00:43:57 / 1104th | 00:45:31 / 757th  | 0 + 0 = 0     | 59th        |
 | 21  | Monkey Math              | 00:06:09 / 261st  | 00:20:07 / 175th  | 0 + 0 = 0     | 59th        |
-| 22  |                          |                   |                   |               |             |
+| 22  | Monkey Map               | 00:14:27 / 33rd   | 01:09:42 / 70th   | 68 + 31 = 99  | 54th        |
 | 23  |                          |                   |                   |               |             |
 | 24  |                          |                   |                   |               |             |
 | 25  |                          |                   |                   |               |             |
