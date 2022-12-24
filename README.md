@@ -35,7 +35,7 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 21  | Monkey Math              | 00:06:09 / 261st  | 00:20:07 / 175th  | 0 + 0 = 0     | 59th        |
 | 22  | Monkey Map               | 00:14:27 / 33rd   | 01:09:42 / 70th   | 68 + 31 = 99  | 54th        |
 | 23  | Unstable Diffusion       | 00:36:19 / 612th  | 00:38:26 / 524th  | 0 + 0 = 0     | 57th        |
-| 24  |                          |                   |                   |               |             |
+| 24  | Blizzard Basin           | 00:15:18 / 41st   | 00:17:35 / 27th   | 60 + 74 = 134 | 50th        |
 | 25  |                          |                   |                   |               |             |
 
 ## Notes/Solution sketches
