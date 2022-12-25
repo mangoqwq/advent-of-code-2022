@@ -7,6 +7,8 @@ I'm going for the leaderboard this year, so I will code up whatever comes to min
 
 Perhaps we can get top hundred??? muri muri ＞︿＜
 
+UPDATE: WE DID IT!!
+
 ## Progress
 
 
@@ -36,6 +38,4 @@ Perhaps we can get top hundred??? muri muri ＞︿＜
 | 22  | Monkey Map               | 00:14:27 / 33rd   | 01:09:42 / 70th   | 68 + 31 = 99  | 54th        |
 | 23  | Unstable Diffusion       | 00:36:19 / 612th  | 00:38:26 / 524th  | 0 + 0 = 0     | 57th        |
 | 24  | Blizzard Basin           | 00:15:18 / 41st   | 00:17:35 / 27th   | 60 + 74 = 134 | 50th        |
-| 25  |                          |                   |                   |               |             |
-
-## Notes/Solution sketches
+| 25  | Full of Hot Air          | 00:16:35 / 563rd  | 00:16:37 / 482th  | 0 + 0 = 0     | 53rd        |
